@@ -1,0 +1,27 @@
+{
+	"sections": {
+		"0": 32,
+		"1": 64,
+		"2": 128
+	},
+	"section_data": [
+		{
+			"speed": 102,
+			"pause": false,
+			"spawns_enemies": false,
+			"show_tutorial": "movement"
+		},
+		{
+			"speed": 102,
+			"pause": false,
+			"spawn_enemies": true,
+			"show_tutorial": "shooting"
+		},
+		{
+			"speed": 102,
+			"pause": false,
+			"spawn_enemies": true,
+			"show_tutorial": "none"
+		}
+	]
+}
